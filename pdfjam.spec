@@ -53,3 +53,15 @@ rm -rf $RPM_BUILD_ROOT
 %doc COPYING PDFjam-README.html pdfdroplets.png
 %{_bindir}/*
 %{_mandir}/man1/*
+
+
+%changelog
+* Mon Sep 14 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.21-2mdv2010.0
++ Revision: 440508
+- rebuild
+
+* Wed Mar 11 2009 Olivier Thauvin <nanardon@mandriva.org> 1.21-1mdv2009.1
++ Revision: 353887
+- import pdfjam
+
+
