@@ -1,6 +1,6 @@
 Name:           pdfjam
 Version:        1.21
-Release:        %mkrel 2
+Release:        3
 Summary:        Utilities for join, rotate and align PDFs
 
 Group:          Publishing
