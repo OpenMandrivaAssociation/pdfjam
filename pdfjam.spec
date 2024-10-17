@@ -6,7 +6,7 @@ Summary:        Utilities for join, rotate and align PDFs
 Group:          Publishing
 # No version specified.
 License:        GPL+
-URL:            http://www.warwick.ac.uk/go/pdfjam
+URL:            https://www.warwick.ac.uk/go/pdfjam
 Source0:        http://www.warwick.ac.uk/go/pdfjam/pdfjam_%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}
 BuildArch:      noarch
